@@ -10,7 +10,5 @@ I'm someone who is passionate about Backend.
 
 <br>
 <br>
-Ingeniero en Sistemas ferviente seguidor de la tecnología, desarrollador web por vocación y embajador de la dialéctica substancial.
-
 
 Over 2 years in Software Engineer. In addition to the use of a vast number of elements within the AWS suite, development and creation of Rest API's, automation of jobs, development support in existing systems as well as Frontend and Backend development within new projects.
